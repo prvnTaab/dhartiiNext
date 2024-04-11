@@ -1,0 +1,14 @@
+.about-image {
+    margin-top: -170px;
+}
+
+.ceo-image-sec {
+    background-size: cover !important;
+    display: block;
+    position: relative;
+    min-height: 500px;
+}
+
+.ceo-text-sec {
+    padding: 50px;
+}

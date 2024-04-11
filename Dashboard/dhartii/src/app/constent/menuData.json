@@ -1,0 +1,128 @@
+{
+    "menuItems": [
+      {
+        "title": "Men",
+        "subMenu": [
+          {
+            "title": "Ethnic Wear",
+            "items": [
+              { "title": "Blazers", "link": "product-category/men/ethnic/blazers-ethnic" },
+              { "title": "Indo-western", "link": "product-category/men/ethnic/indo-western-ethnic" },
+              { "title": "Kurtas & Kurtas Set", "link": "product-category/men/ethnic/kurtas-kurtas-set" },
+              { "title": "Nehru Jackets", "link": "product-category/men/ethnic/nehru-jackets" },
+              { "title": "Pants", "link": "product-category/men/ethnic/pants-ethnic" },
+              { "title": "Suits", "link": "product-category/men/ethnic/suits-ethnic" }
+            ]
+          },
+          {
+            "title": "Western Wear",
+            "items": [
+              { "title": "Blazers", "link": "product-category/men/western/blazers" },
+              { "title": "Co-Ords Sets", "link": "product-category/men/western/co-ords-sets" },
+              { "title": "Jackets & Coats", "link": "product-category/men/western/jackets-coats" },
+              { "title": "Pants", "link": "product-category/men/western/pants" },
+              { "title": "Shirts", "link": "product-category/men/western/shirts" },
+              { "title": "Sweaters & Sweatshirts", "link": "product-category/men/western/sweaters-sweatshirts" },
+              { "title": "T-Shirts", "link": "product-category/men/western/t-shirts" },
+              { "title": "Swim Wear", "link": "product-category/men/western/swim-wear" },
+              { "title": "Shorts", "link": "product-category/men/western/shorts" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Women",
+        "subMenu": [
+          {
+            "title": "Western Wear",
+            "items": [
+              { "title": "Co-ords Sets", "link": "product-category/women/western-wear/co-ords-sets" },
+              { "title": "Dresses", "link": "product-category/women/western-wear/dresses" },
+              { "title": "Tops & T-shirts", "link": "product-category/women/western-wear/tops-t-shirts" },
+              { "title": "Jumpsuits", "link": "product-category/women/western-wear/jumpsuits" },
+              { "title": "Pants", "link": "product-category/women/western-wear/pants-western-wear" },
+              { "title": "Resort Wear", "link": "product-category/women/western-wear/resort-wear" },
+              { "title": "Shirts", "link": "product-category/women/western-wear/shirts-western-wear" },
+              { "title": "Shorts", "link": "product-category/women/western-wear/shorts-western-wear" },
+              { "title": "Skirts", "link": "product-category/women/western-wear/skirts" },
+              { "title": "Swim Wear", "link": "product-category/women/western-wear/swim-wear-western-wear" },
+              { "title": "Sweatshirts & Jackets", "link": "product-category/women/western-wear/sweatshirts-jackets" },
+              { "title": "Lingerie", "link": "product-category/women/western-wear/lingerie-western-wear" }
+            ]
+          },
+          {
+            "title": "Ethnic Wear",
+            "items": [
+              { "title": "Saree", "link": "product-category/women/ethnic-wear/saree" },
+              { "title": "Palazzos", "link": "product-category/women/ethnic-wear/palazzos" },
+              { "title": "Lehenga Sets", "link": "product-category/women/ethnic-wear/lehenga-sets" },
+              { "title": "Kurtas & Kurtas Set", "link": "product-category/women/ethnic-wear/kurtas-kurtas-set-ethnic-wear" },
+              { "title": "Kaftan Sets", "link": "product-category/women/ethnic-wear/kaftan-sets" },
+              { "title": "Indo-western", "link": "product-category/women/ethnic-wear/indo-western" },
+              { "title": "Dupattas", "link": "product-category/women/ethnic-wear/dupattas" },
+              { "title": "Dresses", "link": "product-category/women/ethnic-wear/dresses-ethnic-wear" },
+              { "title": "Co-ords Sets", "link": "product-category/women/ethnic-wear/co-ords-sets-ethnic-wear" },
+              { "title": "Blouses", "link": "product-category/women/ethnic-wear/blouses" },
+              { "title": "Shararas", "link": "product-category/women/ethnic-wear/shararas" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Kids",
+        "subMenu": [
+          {
+            "title": "Boys",
+            "items": [
+              { "title": "Kurta Sets", "link": "product-category/kids/boys/kurta-sets-boys" },
+              { "title": "Pants", "link": "product-category/kids/boys/pants-boys" },
+              { "title": "Shirts", "link": "product-category/kids/boys/shirts-boys" },
+              { "title": "Shorts", "link": "product-category/kids/boys/shorts-boys" },
+              { "title": "Swim Wear", "link": "product-category/kids/boys/swim-wear-boys" }
+            ]
+          },
+          {
+            "title": "Girls",
+            "items": [
+              { "title": "Dresses", "link": "product-category/kids/girls/dresses-girls" },
+              { "title": "Jumpsuits", "link": "product-category/kids/girls/jumpsuits-girls" },
+              { "title": "Kurta Sets", "link": "product-category/kids/girls/kurta-sets" },
+              { "title": "Lehenga Sets", "link": "product-category/kids/girls/lehenga-sets-girls" },
+              { "title": "Pants", "link": "product-category/kids/girls/pants-girls" },
+              { "title": "Shirts", "link": "product-category/kids/girls/shirts-girls" },
+              { "title": "Shorts", "link": "product-category/kids/girls/shorts-girls" },
+              { "title": "Skirts", "link": "product-category/kids/girls/skirts-girls" },
+              { "title": "Swim Wear", "link": "product-category/kids/girls/swim-wear-girls" },
+              { "title": "Lingerie", "link": "product-category/kids/girls/lingerie" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Accessories",
+        "subMenu": [
+          {
+            "title": "Bags",
+            "items": [
+              { "title": "Clutch", "link": "product-category/accessories/bags/clutch" },
+              { "title": "Handbags", "link": "product-category/accessories/bags/handbags" },
+              { "title": "Sling", "link": "product-category/accessories/bags/sling" },
+              { "title": "Tote", "link": "product-category/accessories/bags/tote" }
+            ]
+          },
+          {
+            "title": "Jewelry",
+            "items": [
+              { "title": "Bracelets", "link": "product-category/accessories/jewelry/bracelets" },
+              { "title": "Bangles & Cuffs", "link": "product-category/accessories/jewelry/necklace" },
+              { "title": "Chains", "link": "product-category/accessories/jewelry/chains" },
+              { "title": "Earrings", "link": "product-category/accessories/jewelry/earrings" },
+              { "title": "Necklace", "link": "product-category/accessories/jewelry/necklace-jewelry" },
+              { "title": "Rings", "link": "product-category/accessories/jewelry/rings" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
